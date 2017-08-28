@@ -1,4 +1,4 @@
-# Capstone-Project
+# MileStone Report
 
 In order to make movies, producers have to invest large amounts of time and money. However, while the movie business has grown to be multi-billion dollar market, there is little to no statistical metrics regarding the probability of success for a movie, and, therefore, little to no knowledge on the rate of return that a movie will bring. In order to help producers take on a more professional and scientifical approach to the movie business I have decided to create a predictive model on movie success. 
 
